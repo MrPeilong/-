@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake AI (CN)",
+  "description": "复古霓虹贪吃蛇游戏，内置 Gemini AI 毒舌解说，会根据你的得分用中文进行吐槽。",
+  "requestFramePermissions": []
+}
